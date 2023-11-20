@@ -1,0 +1,6 @@
+*.sw[o|p]
+
+*.pyc
+
+.venv/
+__pycache__/
